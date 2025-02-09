@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\SwToolkit\bin\Debug\SwToolkit.exe.config
+C:\Users\Administrator\source\repos\SwToolkit\bin\Debug\SwToolkit.exe
+C:\Users\Administrator\source\repos\SwToolkit\bin\Debug\SwToolkit.pdb
+C:\Users\Administrator\source\repos\SwToolkit\obj\Debug\SwToolkit.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\SwToolkit\obj\Debug\SwToolkit.Properties.Resources.resources
+C:\Users\Administrator\source\repos\SwToolkit\obj\Debug\SwToolkit.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\SwToolkit\obj\Debug\SwToolkit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SwToolkit\obj\Debug\SwToolkit.exe
+C:\Users\Administrator\source\repos\SwToolkit\obj\Debug\SwToolkit.pdb
+C:\Users\Administrator\source\repos\SwToolkit\obj\Debug\SwToolkit.Form1.resources
